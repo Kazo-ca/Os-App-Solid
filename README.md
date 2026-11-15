@@ -28,6 +28,8 @@ Terminal, as an administrator: `sudo kazopkg install <owner>/<repository>`.
 
 A Kazo OS app repository, made with the `kazoos-solution` template.
 
+This repository will hold **Kazo Solid**, the parametric 3D design (CAD) app of Kazo OS, powered by the official web build of [SolidCraft](https://github.com/tangency-labs/solidcraft). The plan is in [`doc/en/plan.md`](doc/en/plan.md) ([documentation index](doc/en/README.md)).
+
 | Folder | Content |
 | --- | --- |
 | `src/Kazo.Os.App` | The app (window app, its `[AppManifest]` class generates `manifest.json`) |

@@ -28,6 +28,8 @@ Terminal de Kazo OS, en administrateur : `sudo kazopkg install <propriétaire>/<
 
 Un dépôt d'app Kazo OS, créé avec le modèle `kazoos-solution`.
 
+Ce dépôt accueillera **Kazo Solid**, l'app de conception 3D paramétrique (CAO) de Kazo OS, propulsée par le build web officiel de [SolidCraft](https://github.com/tangency-labs/solidcraft). Le plan est dans [`doc/fr/plan.md`](doc/fr/plan.md) ([index de la documentation](doc/fr/README.md)).
+
 | Dossier | Contenu |
 | --- | --- |
 | `src/Kazo.Os.App` | L'app (app fenêtrée ; sa classe `[AppManifest]` génère `manifest.json`) |
